@@ -1,9 +1,0 @@
-name: ToXiiCMultiplier
-version: 1.0.0
-main: net.toxiic.multiplier.Multiplier
-description: Multiply the amount received for selling!
-author: ToXiiC
-softdepend: [Vault, BossShop]
-commands:
-  multiplier:
-    usage: /<command> [reload|reset <player>|set <player> <multiplier> [<duration>]]
